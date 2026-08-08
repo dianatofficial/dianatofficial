@@ -1,5 +1,9 @@
 # Mohammad Javad Dianat
 
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-Airflow%20%7C%20ETL-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![ML/AI](https://img.shields.io/badge/ML%2FAI-RAG%20%7C%20BERT-6f42c1?style=flat)
+
 **Backend & Data Engineer | ML / AI Systems**
 
 Backend & Data Engineer with 4+ years of experience building production data pipelines and applied ML systems — from raw data to deployed dashboards.  
