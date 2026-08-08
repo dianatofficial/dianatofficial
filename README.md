@@ -48,10 +48,15 @@ I build **production-grade data & ML systems** end-to-end — from **raw data pi
 
 ### 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dianatofficial&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dianatofficial&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=dianatofficial&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dianatofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dianatofficial&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
+### 💻 Languages Usage
+
+![Top Languages Detailed](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dianatofficial&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dianatofficial&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=dianatofficial&theme=tokyonight&hide_border=true)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dianatofficial&theme=tokyo-night&hide_border=true)
 
 ---
