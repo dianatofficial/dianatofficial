@@ -1,4 +1,4 @@
-<h1 align="center">Mohammad Javad Dianat</h1>
+<h1 align="center">محمدجواد دیانت | Mohammad Javad Dianat</h1>
 <p align="center"><b>Backend & Data Engineer | ML / AI Systems</b></p>
 
 <p align="center">
@@ -32,8 +32,8 @@ I build <b>data & ML systems</b> from <b>pipelines</b> to <b>production dashboar
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dianatofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews&hide=stars,prs,issues,contribs" height="165" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dianatofficial&layout=compact&hide_progress=true&theme=tokyonight&hide_border=true&langs_count=8" height="165" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dianatofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&show=reviews" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dianatofficial&layout=compact&hide_progress=true&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
