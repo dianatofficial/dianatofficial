@@ -57,7 +57,7 @@ I build **production-grade data & ML systems** end-to-end — from **raw data pi
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dianatofficial&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dianatofficial&theme=tokyonight&hide_border=true)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dianatofficial&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dianatofficial&theme=tokyo-night&hide_border=true&days=365)
 
 ---
 
