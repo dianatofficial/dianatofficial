@@ -1,93 +1,63 @@
 # Mohammad Javad Dianat
 
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white)
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-Airflow%20%7C%20ETL-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![ML/AI](https://img.shields.io/badge/ML%2FAI-RAG%20%7C%20BERT-6f42c1?style=flat)
-
 **Backend & Data Engineer | ML / AI Systems**
 
-Backend & Data Engineer with 4+ years of experience building production data pipelines and applied ML systems — from raw data to deployed dashboards.  
-Strong in **Python, SQL, Apache Airflow**, and hands-on delivery of **RAG chatbots, fraud-detection models, and fine-tuned BERT classifiers**.  
-M.Sc. in Information Technology, University of Tehran.
+![Profile Views](https://komarev.com/ghpvc/?username=dianatofficial&label=Profile%20Views&color=7c3aed&style=flat)
+![Open to Work](https://img.shields.io/badge/Open%20to-Backend%20%7C%20Data%20%7C%20ML-0ea5e9?style=flat)
+![Location](https://img.shields.io/badge/Tehran-Iran-334155?style=flat)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+I build **production-grade data & ML systems** end-to-end — from **raw data pipelines** to **deployed dashboards**.
 
 ---
 
-### Focus
+### ⚡ What I Do
 
-- Backend & Data Engineering  
-- Applied ML & RAG Systems  
-- LLM Fine-tuning & Persian NLP  
-- Graph Mining & Fraud Detection  
-- Next.js Dashboards & Docker Deployment
-
----
-
-### Tech Stack
-
-**Languages & Data**  
-Python, SQL (PostgreSQL, SQLite)
-
-**Data Engineering**  
-Apache Airflow, ETL Pipelines, Data Modeling, Data Analysis
-
-**ML / AI**  
-PyTorch, HuggingFace Transformers, Scikit-learn, RAG, LLM Fine-tuning, BERT, Graph Mining
-
-**Vector / Retrieval**  
-Pinecone, Chroma, Semantic Search
-
-**Backend & DevOps**  
-REST APIs, Docker, Linux Deployment, Server Management
-
-**Frontend**  
-Next.js, React, Angular
+- **Backend & Data Engineering**
+- **RAG / LLM Applications**
+- **Persian NLP & BERT Fine-tuning**
+- **Fraud Detection with Graph Mining**
+- **Next.js Dashboards + Docker Deployment**
 
 ---
 
-### Selected Work
+### 🚀 Selected Impact
 
-- **Internal RAG Chatbot** — retrieval-augmented Q&A over ~15k organizational documents  
-  `Python` `LLM` `Pinecone` `Chroma` `RAG`
-
-- **Fraud Detection via Graph Mining** — fake-account detection on Twitter data  
-  `Python` `Graph Mining` `OSINT`
-
-- **BERT Fine-tuning (Persian NLP)** — Persian text classification with improved accuracy  
-  `PyTorch` `HuggingFace` `BERT`
-
-- **Production Dashboards (Next.js)** — data/ML outputs for non-technical teams  
-  `Next.js` `React` `Docker`
+- Cut internal knowledge lookup time by **~70%** using RAG over ~15k documents
+- Increased Persian text-classification accuracy from **~82% → ~91%**
+- Reduced ETL manual effort from **~4h → <20m/day** with Airflow pipelines
+- Flagged **~3k suspicious accounts** at **~88% precision**
 
 ---
 
-### Experience Highlights
+### 📌 Featured Work
 
-- Reduced information lookup time by ~70% with RAG search systems  
-- Improved Persian classification accuracy from ~82% to ~91% via BERT fine-tuning  
-- Automated daily ingestion from 5+ sources (Airflow), cutting manual work from ~4h to <20m  
-- Flagged ~3k suspicious accounts at ~88% precision in fraud-detection pipelines
-
----
-
-### Education
-
-- **M.Sc., Information Technology** — University of Tehran (2021–2024)  
-  Ranked **7th** in National M.Sc. Entrance Exam  
-- **B.Sc., Software Engineering** — Islamic Azad University (2019–2021) | GPA: 19.3/20  
-- **A.S., Software Engineering** — Islamic Azad University (2018–2019) | GPA: 19.5/20
+- **RAG Chatbot** — `Python` `LLM` `Pinecone` `Chroma`
+- **Fraud Detection via Graph Mining** — `Python` `OSINT` `Twitter Data`
+- **BERT Fine-tuning (Persian NLP)** — `PyTorch` `HuggingFace`
+- **Next.js Production Dashboards** — `Next.js` `React` `Docker`
 
 ---
 
-### Honors
+### 📊 GitHub Analytics
 
-- Diploma of Honor — International Mathematics Competition, University of Waterloo (2010)  
-- Ranked 7th — National M.Sc. Entrance Exam (IT), Iran (2021)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dianatofficial&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dianatofficial&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=dianatofficial&theme=tokyonight&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dianatofficial&theme=tokyo-night&hide_border=true)
 
 ---
 
-### Contact
+### 🤝 Contact
 
-- 📍 Tehran, Iran  
-- 📧 dianatofficial9@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/dianat-info  
-- 🧠 Kaggle: https://www.kaggle.com/dianatofficial
+- **Email:** dianatofficial9@gmail.com
+- **LinkedIn:** https://linkedin.com/in/dianat-info
+- **Kaggle:** https://www.kaggle.com/dianatofficial
