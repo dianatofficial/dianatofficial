@@ -37,7 +37,7 @@ I build <b>data & ML systems</b> from <b>pipelines</b> to <b>production dashboar
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dianatofficial&theme=tokyo-night&hide_border=true&days=365" width="98%" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dianatofficial&theme=tokyonight" width="98%" alt="Activity Graph" />
 </p>
 
 ---
