@@ -32,8 +32,8 @@ I build <b>data & ML systems</b> from <b>pipelines</b> to <b>production dashboar
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dianatofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=2" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dianatofficial&layout=compact&hide_progress=true&theme=tokyonight&hide_border=true&langs_count=8&v=2" height="165" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dianatofficial&theme=tokyonight" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dianatofficial&theme=tokyonight" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
