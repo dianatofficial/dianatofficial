@@ -1,5 +1,5 @@
 <h1 align="center">محمدجواد دیانت | Mohammad Javad Dianat</h1>
-<p align="center"><b>Backend & Data Engineer | ML / AI Systems</b></p>
+<p align="center"><b>Senior Full-Stack & Data/AI Engineer | From Data Pipelines to Production Apps | LLM/RAG · MLOps | Python, Go, Next.js, PostgreSQL</b></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dianatofficial&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile Views" />
