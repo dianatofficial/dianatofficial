@@ -10,6 +10,26 @@
 
 ---
 
+### 📊 GitHub Analytics & Repository Metrics
+
+<p align="center">
+  <img src="./assets/stats-and-languages.svg" alt="GitHub Stats & Language Breakdown" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/contributions-graph.svg" alt="Contributions Activity & Timeline Wave" width="100%" />
+</p>
+
+---
+
+### 🏛️ Engineering Blueprint & System Architecture
+
+<p align="center">
+  <img src="./assets/architecture.svg" alt="Architecture & Domains" width="100%" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Ecosystem
 
 <table align="center" width="100%">
@@ -53,14 +73,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 🏛️ Engineering Blueprint & System Architecture
-
-<p align="center">
-  <img src="./assets/architecture.svg" alt="Architecture & Domains" width="100%" />
-</p>
 
 ---
 
