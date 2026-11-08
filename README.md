@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-Backend%20%7C%20Data%20%7C%20ML-0ea5e9?style=for-the-badge" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Location-Tehran%2C%20Iran-334155?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Work-Remote%20%7C%20Worldwide-334155?style=for-the-badge" alt="Worldwide" />
   <img src="https://img.shields.io/badge/Focus-Production%20AI%20%26%20Data%20Systems-7c3aed?style=for-the-badge" alt="Focus" />
 </p>
 
@@ -50,7 +50,7 @@
       <img src="https://img.shields.io/badge/HuggingFace-FFB000?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" />
       <img src="https://img.shields.io/badge/RAG%20Architecture-6d28d9?style=flat-square" alt="RAG" />
       <img src="https://img.shields.io/badge/Vector%20Databases-059669?style=flat-square" alt="Vector DB" />
-      <img src="https://img.shields.io/badge/Persian%20NLP-2563eb?style=flat-square" alt="Persian NLP" />
+      <img src="https://img.shields.io/badge/Multilingual%20NLP-2563eb?style=flat-square" alt="Multilingual NLP" />
     </td>
   </tr>
   <tr>
@@ -81,7 +81,7 @@
 - 🧠 **Production RAG & LLM Orchestration:** Architecting resilient semantic search and RAG systems with dense vector indexing, hybrid ranking, and prompt optimization (~70% low-latency retrieval boost).
 - ⚡ **High-Availability Data Pipelines:** Authoring end-to-end Apache Airflow workflows and automated ETL pipelines with idempotent data transformation and schema observability.
 - 🛠️ **Robust Distributed Backends:** Building decoupled microservices with Python (FastAPI), Go, and PostgreSQL, containerized with Docker for predictable production deployments.
-- 🔍 **Persian Linguistics & NLP:** Domain-specialized Persian language processing, tokenization, named-entity recognition, and transformer fine-tuning achieving high benchmark precision.
+- 🔍 **Multilingual NLP & LLMs:** Cross-lingual language processing, tokenization, semantic similarity, and domain-adapted transformer fine-tuning.
 
 ---
 
@@ -101,5 +101,4 @@
   <a href="https://linkedin.com/in/dianat-info"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.kaggle.com/dianatofficial"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="mailto:dianatofficial9@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.dianatofficial.ir/"><img src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 </p>

@@ -47,7 +47,6 @@
 
   <!-- Main Name Header -->
   <text x="32" y="80" fill="url(#titleGrad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans', sans-serif" font-size="28" font-weight="800" letter-spacing="-0.5">Mohammad Javad Dianat</text>
-  <text x="390" y="80" fill="#94a3b8" font-family="'Vazirmatn', 'Segoe UI', Tahoma, sans-serif" font-size="22" font-weight="600">|  محمدجواد دیانت</text>
 
   <!-- Role Subtitle -->
   <text x="32" y="112" fill="#f1f5f9" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="600">
@@ -82,9 +81,9 @@
     <text x="80" y="19" fill="#d8b4fe" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" text-anchor="middle">🛠️ Distributed Backend</text>
   </g>
 
-  <!-- Chip 5: Persian NLP -->
+  <!-- Chip 5: Multilingual NLP -->
   <g transform="translate(642, 160)">
     <rect width="165" height="30" rx="8" fill="#1f2937" stroke="#4b5563" stroke-width="1" stroke-opacity="0.4" />
-    <text x="82" y="19" fill="#e5e7eb" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" text-anchor="middle">🔍 Persian Linguistics &amp; NLP</text>
+    <text x="82" y="19" fill="#e5e7eb" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" text-anchor="middle">🔍 Multilingual NLP &amp; LLMs</text>
   </g>
 </svg>
