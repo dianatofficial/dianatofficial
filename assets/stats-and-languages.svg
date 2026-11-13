@@ -22,7 +22,7 @@
   <g transform="translate(2, 2)">
     <rect width="405" height="196" rx="14" fill="url(#cardGrad)" stroke="url(#borderLeft)" stroke-width="1.2" />
     <text x="25" y="34" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="700">Engineering Stats</text>
-    <text x="380" y="33" fill="#64748b" font-family="sans-serif" font-size="10" text-anchor="end">Live Sync: 2026-11-12</text>
+    <text x="380" y="33" fill="#64748b" font-family="sans-serif" font-size="10" text-anchor="end">Live Sync: 2026-11-13</text>
     <line x1="25" y1="44" x2="380" y2="44" stroke="#1e293b" stroke-width="1" />
 
     <text x="25" y="74" fill="#94a3b8" font-family="sans-serif" font-size="13">⭐ Total Stars Earned:</text>
