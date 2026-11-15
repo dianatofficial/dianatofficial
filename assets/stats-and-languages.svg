@@ -32,13 +32,13 @@
     <text x="210" y="100" fill="#f8fafc" font-family="sans-serif" font-size="13" font-weight="700">3,147</text>
 
     <text x="25" y="126" fill="#94a3b8" font-family="sans-serif" font-size="13">🔀 Merged Pull Requests:</text>
-    <text x="210" y="126" fill="#38bdf8" font-family="sans-serif" font-size="13" font-weight="700">755 / 829</text>
+    <text x="210" y="126" fill="#38bdf8" font-family="sans-serif" font-size="13" font-weight="700">755 / 831</text>
 
     <text x="25" y="152" fill="#94a3b8" font-family="sans-serif" font-size="13">🐛 Issues Tracked:</text>
     <text x="210" y="152" fill="#c084fc" font-family="sans-serif" font-size="13" font-weight="700">13</text>
 
     <text x="25" y="178" fill="#94a3b8" font-family="sans-serif" font-size="13">🌐 Contributed Repos:</text>
-    <text x="210" y="178" fill="#f8fafc" font-family="sans-serif" font-size="13" font-weight="700">127</text>
+    <text x="210" y="178" fill="#f8fafc" font-family="sans-serif" font-size="13" font-weight="700">130</text>
 
     <g transform="translate(295, 68)">
       <circle cx="45" cy="45" r="42" fill="url(#octoGlow)" />
