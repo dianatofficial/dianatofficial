@@ -79,8 +79,8 @@
 ### 🚀 Core Engineering Highlights
 
 - 🧠 **Production RAG & LLM Orchestration:** Architecting resilient semantic search and RAG systems with dense vector indexing, hybrid ranking, and prompt optimization (~70% low-latency retrieval boost).
-- ⚡ **High-Availability Data Pipelines:** Authoring end-to-end Apache Airflow workflows and automated ETL pipelines with idempotent data transformation and schema observability.
-- 🛠️ **Robust Distributed Backends:** Building decoupled microservices with Python (FastAPI), Go, and PostgreSQL, containerized with Docker for predictable production deployments.
+- ⚡ **Data Pipelines:** Streaming ingestion (Kafka + PySpark Structured Streaming with watermarking), SCD Type 2 modeling, and data-quality checks with quarantine and observability (portfolio projects with a built-in data simulator).
+- 🛠️ **Backend Services:** TypeScript/Node.js (Express) and Go services on PostgreSQL with versioned migrations, Docker and end-to-end tests; open-source Go contributions (7 merged pull requests in go-magnetar).
 - 🔍 **Multilingual NLP & LLMs:** Cross-lingual language processing, tokenization, semantic similarity, and domain-adapted transformer fine-tuning.
 
 ---
@@ -89,9 +89,9 @@
 
 | Repository | Focus & Architecture | Domain |
 | :--- | :--- | :--- |
-| 🚀 [`chatbot-rag`](https://github.com/dianatofficial/chatbot-rag) | Production Retrieval-Augmented Generation (RAG) system with hybrid search | AI / LLM |
-| ⚡ [`Data-Quality-and-Observability`](https://github.com/dianatofficial/Data-Quality-and-Observability) | Automated data quality assertions, pipeline telemetry & metrics validation | Data Engineering |
-| 📊 [`Real-time-Clickstream-Anomaly-Detection`](https://github.com/dianatofficial/Real-time-Clickstream-Anomaly-Detection) | High-throughput distributed streaming data processing & anomaly detection | MLOps / Streaming |
+| 🚀 [`my-rag-chatbot-3`](https://github.com/dianatofficial/my-rag-chatbot-3) | RAG chatbot on LlamaIndex: Chroma vector store, BM25 + vector hybrid retrieval with reranking, Ollama / OpenAI-compatible LLMs, and a QA-generation evaluation module (personal project) | AI / LLM |
+| ⚡ [`Data-Quality-and-Observability`](https://github.com/dianatofficial/Data-Quality-and-Observability) | Automated data quality assertions, pipeline telemetry & metrics validation (runs on a built-in data simulator) | Data Engineering |
+| 📊 [`Real-time-Clickstream-Anomaly-Detection`](https://github.com/dianatofficial/Real-time-Clickstream-Anomaly-Detection) | Kafka + PySpark Structured Streaming anomaly detection on a built-in synthetic-event simulator (5-min window, 10-min watermark) | MLOps / Streaming |
 
 ---
 
