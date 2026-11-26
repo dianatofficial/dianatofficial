@@ -29,10 +29,10 @@
     <text x="210" y="74" fill="#f8fafc" font-family="sans-serif" font-size="13" font-weight="700">5</text>
 
     <text x="25" y="100" fill="#94a3b8" font-family="sans-serif" font-size="13">📦 Total Commits:</text>
-    <text x="210" y="100" fill="#f8fafc" font-family="sans-serif" font-size="13" font-weight="700">3,762</text>
+    <text x="210" y="100" fill="#f8fafc" font-family="sans-serif" font-size="13" font-weight="700">3,763</text>
 
     <text x="25" y="126" fill="#94a3b8" font-family="sans-serif" font-size="13">🔀 Merged Pull Requests:</text>
-    <text x="210" y="126" fill="#38bdf8" font-family="sans-serif" font-size="13" font-weight="700">635 / 710</text>
+    <text x="210" y="126" fill="#38bdf8" font-family="sans-serif" font-size="13" font-weight="700">636 / 712</text>
 
     <text x="25" y="152" fill="#94a3b8" font-family="sans-serif" font-size="13">🐛 Issues Tracked:</text>
     <text x="210" y="152" fill="#c084fc" font-family="sans-serif" font-size="13" font-weight="700">13</text>
@@ -55,20 +55,20 @@
 
     <g transform="translate(95, 118)">
       <circle cx="0" cy="0" r="48" fill="none" stroke="#1e293b" stroke-width="20" />
-      <circle cx="0" cy="0" r="48" fill="none" stroke="#10b981" stroke-width="20" stroke-dasharray="289.12 301.59" stroke-dashoffset="-0.00" transform="rotate(-90)" />
-      <circle cx="0" cy="0" r="48" fill="none" stroke="#427819" stroke-width="20" stroke-dasharray="6.16 301.59" stroke-dashoffset="-289.12" transform="rotate(-90)" />
-      <circle cx="0" cy="0" r="48" fill="none" stroke="#a855f7" stroke-width="20" stroke-dasharray="3.39 301.59" stroke-dashoffset="-295.28" transform="rotate(-90)" />
-      <circle cx="0" cy="0" r="48" fill="none" stroke="#336790" stroke-width="20" stroke-dasharray="2.93 301.59" stroke-dashoffset="-298.66" transform="rotate(-90)" />
+      <circle cx="0" cy="0" r="48" fill="none" stroke="#10b981" stroke-width="20" stroke-dasharray="289.04 301.59" stroke-dashoffset="-0.00" transform="rotate(-90)" />
+      <circle cx="0" cy="0" r="48" fill="none" stroke="#427819" stroke-width="20" stroke-dasharray="6.20 301.59" stroke-dashoffset="-289.04" transform="rotate(-90)" />
+      <circle cx="0" cy="0" r="48" fill="none" stroke="#a855f7" stroke-width="20" stroke-dasharray="3.41 301.59" stroke-dashoffset="-295.23" transform="rotate(-90)" />
+      <circle cx="0" cy="0" r="48" fill="none" stroke="#336790" stroke-width="20" stroke-dasharray="2.95 301.59" stroke-dashoffset="-298.64" transform="rotate(-90)" />
       <text x="0" y="4" fill="#f8fafc" font-family="sans-serif" font-size="11" font-weight="700" text-anchor="middle">STACK</text>
     </g>
 
     <g transform="translate(185, 68)">
       <rect x="0" y="0" width="12" height="12" rx="3" fill="#10b981" />
       <text x="20" y="11" fill="#f1f5f9" font-family="sans-serif" font-size="13" font-weight="500">Python</text>
-      <text x="165" y="11" fill="#94a3b8" font-family="sans-serif" font-size="12" text-anchor="end">95.9%</text>
+      <text x="165" y="11" fill="#94a3b8" font-family="sans-serif" font-size="12" text-anchor="end">95.8%</text>
       <rect x="0" y="26" width="12" height="12" rx="3" fill="#427819" />
       <text x="20" y="37" fill="#f1f5f9" font-family="sans-serif" font-size="13" font-weight="500">Makefile</text>
-      <text x="165" y="37" fill="#94a3b8" font-family="sans-serif" font-size="12" text-anchor="end">2.0%</text>
+      <text x="165" y="37" fill="#94a3b8" font-family="sans-serif" font-size="12" text-anchor="end">2.1%</text>
       <rect x="0" y="52" width="12" height="12" rx="3" fill="#a855f7" />
       <text x="20" y="63" fill="#f1f5f9" font-family="sans-serif" font-size="13" font-weight="500">CSS</text>
       <text x="165" y="63" fill="#94a3b8" font-family="sans-serif" font-size="12" text-anchor="end">1.1%</text>
