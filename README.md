@@ -78,9 +78,9 @@
 
 ### 🚀 Core Engineering Highlights
 
-- 🧠 **Production RAG & LLM Orchestration:** Architecting resilient semantic search and RAG systems with dense vector indexing, hybrid ranking, and prompt optimization (~70% low-latency retrieval boost).
+- 🧠 **Production RAG & LLM Orchestration:** Architecting resilient semantic search and RAG systems with dense vector indexing, BM25 hybrid ranking, reranking, and automated QA evaluation.
 - ⚡ **Data Pipelines:** Streaming ingestion (Kafka + PySpark Structured Streaming with watermarking), SCD Type 2 modeling, and data-quality checks with quarantine and observability (portfolio projects with a built-in data simulator).
-- 🛠️ **Backend Services:** TypeScript/Node.js (Express) and Go services on PostgreSQL with versioned migrations, Docker and end-to-end tests; open-source Go contributions (16 merged pull requests in go-magnetar).
+- 🛠️ **Backend Services:** TypeScript/Node.js (Express) and Go services on PostgreSQL with versioned migrations, Docker and end-to-end tests; open-source contributions (70+ merged pull requests across `go-magnetar`, `wheelgap`, `Gulliver`, `zanadir`, and `tacular-omics`).
 - 🔍 **Multilingual NLP & LLMs:** Cross-lingual language processing, tokenization, semantic similarity, and domain-adapted transformer fine-tuning.
 
 ---
@@ -89,16 +89,18 @@
 
 | Repository | Focus & Architecture | Domain |
 | :--- | :--- | :--- |
-| 🚀 [`my-rag-chatbot-3`](https://github.com/dianatofficial/my-rag-chatbot-3) | RAG chatbot on LlamaIndex: Chroma vector store, BM25 + vector hybrid retrieval with reranking, Ollama / OpenAI-compatible LLMs, and a QA-generation evaluation module (personal project) | AI / LLM |
-| ⚡ [`Data-Quality-and-Observability`](https://github.com/dianatofficial/Data-Quality-and-Observability) | Automated data quality assertions, pipeline telemetry & metrics validation (runs on a built-in data simulator) | Data Engineering |
-| 📊 [`Real-time-Clickstream-Anomaly-Detection`](https://github.com/dianatofficial/Real-time-Clickstream-Anomaly-Detection) | Kafka + PySpark Structured Streaming anomaly detection on a built-in synthetic-event simulator (5-min window, 10-min watermark) | MLOps / Streaming |
+| 🚀 [`my-rag-chatbot-3`](https://github.com/dianatofficial/my-rag-chatbot-3) | RAG chatbot on LlamaIndex: Chroma vector store, BM25 + vector hybrid retrieval with reranking, Ollama / OpenAI-compatible LLMs, and a QA-generation evaluation module | AI / LLM |
+| 💳 [`Sub-Billing-Analytics-DW`](https://github.com/dianatofficial/Sub-Billing-Analytics-DW) | Subscription & billing analytics data warehouse with PostgreSQL schema, ETL pipelines, Docker Compose setup, and automated tests | Data Engineering |
+| ⚡ [`Data-Quality-and-Observability`](https://github.com/dianatofficial/Data-Quality-and-Observability) | Automated data quality assertions, quarantine routing, pipeline telemetry & metrics validation | Data Engineering |
+| 📊 [`Real-time-Clickstream-Anomaly-Detection`](https://github.com/dianatofficial/Real-time-Clickstream-Anomaly-Detection) | Kafka + PySpark Structured Streaming anomaly detection on a synthetic-event simulator (5-min window, 10-min watermark) | MLOps / Streaming |
+| 📦 [`Order-Fulfillment-Margin-Mart`](https://github.com/dianatofficial/Order-Fulfillment-Margin-Mart) | End-to-end order fulfillment & margin data mart with SQL modeling, pipeline tests, and Dockerized Postgres | Data Engineering |
 
 ---
 
 ### 🤝 Connect & Collaborate
 
 <p align="center">
-  <a href="https://linkedin.com/in/dianat-info"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/dianatofficiall/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.kaggle.com/dianatofficial"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
   <a href="mailto:dianatofficial9@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
