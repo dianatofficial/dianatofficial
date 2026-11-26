@@ -80,7 +80,7 @@
 
 - 🧠 **Production RAG & LLM Orchestration:** Architecting resilient semantic search and RAG systems with dense vector indexing, hybrid ranking, and prompt optimization (~70% low-latency retrieval boost).
 - ⚡ **Data Pipelines:** Streaming ingestion (Kafka + PySpark Structured Streaming with watermarking), SCD Type 2 modeling, and data-quality checks with quarantine and observability (portfolio projects with a built-in data simulator).
-- 🛠️ **Backend Services:** TypeScript/Node.js (Express) and Go services on PostgreSQL with versioned migrations, Docker and end-to-end tests; open-source Go contributions (15 merged pull requests in go-magnetar).
+- 🛠️ **Backend Services:** TypeScript/Node.js (Express) and Go services on PostgreSQL with versioned migrations, Docker and end-to-end tests; open-source Go contributions (16 merged pull requests in go-magnetar).
 - 🔍 **Multilingual NLP & LLMs:** Cross-lingual language processing, tokenization, semantic similarity, and domain-adapted transformer fine-tuning.
 
 ---
